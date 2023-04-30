@@ -1,5 +1,5 @@
-Создать внешний репозиторий c названием JSON.
-Клонировать репозиторий JSON на локальный компьютер. https://github.com/a-radonskaya/JSON.git 
+ Создать внешний репозиторий c названием JSON. 
+ Клонировать репозиторий JSON на локальный компьютер. https://github.com/a-radonskaya/JSON.git 
 Внутри локального JSON создать файл “new.json”. touch > new.json
 Добавить файл под гит.  git add . ->  git status 
 Закоммитить файл. git commit -m "new"
